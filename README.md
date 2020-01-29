@@ -1,2 +1,3 @@
 # GenericTest
-generic training using razer as an example
+C# training: Generics
+(using razer as reference)
